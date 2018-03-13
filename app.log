@@ -1,0 +1,12 @@
+10:38:02.193 [main] INFO  TP_slf4j.demo_logging.dev.App - Bonjour Slf4J !
+10:38:02.195 [main] INFO  TP_slf4j.demo_logging.dev.App - Implémentation Logback
+10:38:02.196 [main] DEBUG T.d.dev.service.AppService - Traitement 1 : param = valeur 1
+10:38:07.092 [main] INFO  TP_slf4j.demo_logging.dev.App - Bonjour Slf4J !
+10:38:07.094 [main] INFO  TP_slf4j.demo_logging.dev.App - Implémentation Logback
+10:38:07.094 [main] DEBUG T.d.dev.service.AppService - Traitement 1 : param = valeur 1
+10:38:40.094 [main] INFO  TP_slf4j.demo_logging.dev.App - Bonjour Slf4J !
+10:38:40.097 [main] INFO  TP_slf4j.demo_logging.dev.App - Implémentation Logback
+10:38:40.097 [main] DEBUG T.d.dev.service.AppService - Traitement 1 : param = valeur 1
+10:42:05.368 [main] INFO  dev.console.App - Bonjour Slf4J !
+10:42:05.370 [main] INFO  dev.console.App - Implémentation Logback
+10:42:05.371 [main] DEBUG dev.service.AppService - Traitement 1 : param = valeur 1
